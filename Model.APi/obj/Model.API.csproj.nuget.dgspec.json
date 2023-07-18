@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\decadev\\Documents\\GitHub\\week-7-Algebra0001\\Model.APi\\Model.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\decadev\\Documents\\GitHub\\week-7-Algebra0001\\Model.APi\\Model.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\decadev\\Documents\\GitHub\\week-7-Algebra0001\\Model.APi\\Model.API.csproj",
+        "projectName": "Model.API",
+        "projectPath": "C:\\Users\\decadev\\Documents\\GitHub\\week-7-Algebra0001\\Model.APi\\Model.API.csproj",
+        "packagesPath": "C:\\Users\\decadev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\decadev\\Documents\\GitHub\\week-7-Algebra0001\\Model.APi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\decadev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
